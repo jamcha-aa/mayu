@@ -2,6 +2,7 @@
 Author: jamcha (jamcha.aa@gmail.com)
 
 This is my personal settings of mayu (https://ja.osdn.net/projects/yamy/).
+
 .mayu contains additional lines from the original source.
 
 ## Key modification
@@ -10,9 +11,12 @@ Muhenkan to Ctrl.
 
 Henkan to Esc.
 
+Ctrl + H to BackSpace.
+
 ## Install
 
 Put .mayu to the installed mayu folder.
+
 Enjoy.
 
 ## License
