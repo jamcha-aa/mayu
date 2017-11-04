@@ -3,7 +3,7 @@ Author: jamcha (jamcha.aa@gmail.com)
 
 This is my personal settings of mayu (https://ja.osdn.net/projects/yamy/).
 
-.mayu contains additional lines from the original source.
+.mayu add some key modification from the original source.
 
 ## Key modification
 
