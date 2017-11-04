@@ -43,3 +43,5 @@ key *変換 = *Esc
 # Ctrl+H as BS
 key C-H = BackSpace # 後退
 
+# Sands
+# mod shift += !!Space
