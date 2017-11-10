@@ -3,8 +3,6 @@ Author: jamcha (jamcha.aa@gmail.com)
 
 This is my personal settings of mayu (https://ja.osdn.net/projects/yamy/).
 
-.mayu add some key modifications from the original source.
-
 ## Key modification
 
 Muhenkan to Ctrl.
