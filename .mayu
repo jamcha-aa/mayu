@@ -36,9 +36,11 @@ keymap Global
 # key *LWin = *LControl
 
 # JP
+key *変換 = *Esc
+
+# Muhenkan to Ctrl
 mod control += 無変換
 key *無変換 = *LControl
-key *変換 = *Esc
 
 # Ctrl+H as BS
 key C-H = BackSpace # 後退

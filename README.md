@@ -17,6 +17,10 @@ Put .mayu to the installed mayu folder.
 
 Enjoy.
 
+### Attention
+
+If you use my [init](https://github.com/jamcha-aa/init)'s skk setting, comment out Muhenkan to Ctrl. Otherwise, it conflicts with skk-stickey-key.
+
 ## License
 
   Original source is licensed by TAGA Nayuta.
