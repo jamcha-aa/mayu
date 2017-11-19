@@ -42,6 +42,9 @@ key *変換 = *Esc
 mod control += 無変換
 key *無変換 = *LControl
 
+# CapsLock to Muhenkan
+# key *英数 = *無変換
+
 # Ctrl+H as BS
 key C-H = BackSpace # 後退
 
