@@ -35,6 +35,11 @@ keymap Global
 # mod control += LWin
 # key *LWin = *LControl
 
+## LAlt to Ctrl
+# mod alt -= LAlt
+# mod control += LAlt
+# key *LAlt = *LControl
+
 # JP
 key *変換 = *Esc
 
